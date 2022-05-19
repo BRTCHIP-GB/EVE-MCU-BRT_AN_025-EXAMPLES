@@ -1,0 +1,6 @@
+name                                                  : id    : start : size  : type  : stype : comp  : width : height
+
+unified.blob                                          : 0     : 0     : 4096  : 1     : 0     : 0     : 0     : 0    
+BRT Logo_240_240x114_ARGB1555.raw                     : 1     : 4096  : 54720 : 2     : 0     : 0     : 240   : 114  
+BRT Logo_240_240x114_ARGB1555.bin                     : 2     : 58816 : 7680  : 2     : 0     : 1     : 240   : 114  
+BRT Logo_240_240x116_COMPRESSED_RGBA_ASTC_4x4_KHR.raw : 3     : 66496 : 27840 : 2     : 37808 : 0     : 240   : 116  
